@@ -9,6 +9,7 @@ I can master the two. I built this project because it is a great way to use dayj
 
 ## Installation
 
-Screenshot:
+Screenshot:![Daily-Planner-screenshot](https://user-images.githubusercontent.com/116680523/202834616-e58635f7-cb87-4b25-8c58-e30534fed551.png)
+
 
 Deployed Link: https://layneni.github.io/Daily-Planner-Challenge/
