@@ -4,7 +4,8 @@
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-My motivation for this project was to create interactivity with a daily planner and utilize dayjs along with local storage so that i can master the two. I built this project because it is a great way to use day js and see visually on a page how it functions. This also built upon my knowledge of local storage from the prior challenge. This web page saves the issue of having to memorize your daily plans, this is a place to save your plans with the added bonus of the visual feedback from the dayjs changing the time block from past to present to future. I learned how dayjs works and how functions can be used to add interactivity to multiple HTML elements at one time or on a click of the mouse.
+My motivation for this project was to create interactivity with a daily planner and utilize dayjs along with local storage so that 
+I can master the two. I built this project because it is a great way to use dayjs and see visually on a page how it functions. This also built upon my knowledge of local storage from the prior challenge. This web page saves the issue of having to memorize your daily plans, this is a place to save your plans with the added bonus of the visual feedback from the dayjs changing the time block from past to present to future. I learned how dayjs works and how functions can be used to add interactivity to multiple HTML elements at one time or on a click of the mouse.
 
 
 ## Installation
